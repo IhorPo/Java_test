@@ -1,0 +1,27 @@
+{
+  "name" : "KPI",
+  "faculties" : ["RTF", "TEF", "FIOT","IEE"],
+  "groups" : ["RA", "RS", "RT", "RE"],
+  "students" : [
+    {
+        "name": "Igor",
+        "age": 22,
+        "group": "RA"
+    },
+    {
+        "name": "Dan",
+        "age": 23,
+        "group": "RA"
+    },
+    {
+        "name": "Jack",
+        "age": 21,
+        "group": "RS"
+    },
+    {
+        "name": "Max",
+        "age": 20,
+        "group": "RT"
+    }
+  ]
+}

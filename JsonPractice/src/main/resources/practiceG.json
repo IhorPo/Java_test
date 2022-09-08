@@ -1,0 +1,30 @@
+{
+  "name": "Shevchenko",
+  "faculties": [
+    "AAB",
+    "CDS",
+    "VBD"
+  ],
+  "groups": [
+    "RR",
+    "BV",
+    "TY"
+  ],
+  "students": [
+    {
+      "name": "Dan",
+      "age": 20,
+      "group": "BV"
+    },
+    {
+      "name": "John",
+      "age": 22,
+      "group": "TY"
+    },
+    {
+      "name": "Jack",
+      "age": 21,
+      "group": "RR"
+    }
+  ]
+}

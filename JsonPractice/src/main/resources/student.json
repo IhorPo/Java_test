@@ -1,0 +1,11 @@
+{
+  "firstName" : "Igor",
+  "lastName" : "Ponomarenko",
+  "age" : 22,
+  "university" : {
+    "nameUniversity" : "KPI",
+    "faculty" : "RTF",
+    "group" : "RS-11mp"
+  },
+  "hobbies" : ["Volleyball", "Gym","Procrastination"]
+}

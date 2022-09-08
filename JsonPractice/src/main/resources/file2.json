@@ -1,0 +1,14 @@
+{
+  "firstName": "Dan",
+  "lastName": "Jhonson",
+  "age": 30,
+  "university": {
+    "nameUniversity": "KPI",
+    "faculty": "RTF",
+    "group": "RS-11mp"
+  },
+  "hobbies": [
+    "Football",
+    "Gym"
+  ]
+}
